@@ -1,0 +1,13 @@
+#userProfiles {
+  background: linear-gradient(
+    0deg,
+    rgba(3, 3, 3, 0.3),
+    rgba(223, 221, 222, 0.3)
+  );
+  height: 100vh;
+  max-height: 100vh;
+}
+.nav img {
+  width: 120px;
+  padding-left: 20px;
+}
